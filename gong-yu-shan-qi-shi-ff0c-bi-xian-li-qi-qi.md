@@ -26,17 +26,17 @@ Sublime Text 也是一個跨平台的文字編輯器，Sublime在 2008 年第一
 
 ---
 
-###官方網站
-Atom: https://atom.io
-Sublime: https://www.sublimetext.com
-Notepad++: https://notepad-plus-plus.org/zh/
+###官方網站 <br />
+Atom: https://atom.io <br />
+Sublime: https://www.sublimetext.com<br />
+Notepad++: https://notepad-plus-plus.org/zh/<br />
 
 ###參考資料
 
-wiki:
-https://en.wikipedia.org/wiki/Atom_(text_editor)
-https://zh.wikipedia.org/wiki/Notepad%2B%2B
-https://en.wikipedia.org/wiki/Sublime_Text
+wiki:<br />
+https://en.wikipedia.org/wiki/Atom_(text_editor)<br />
+https://zh.wikipedia.org/wiki/Notepad%2B%2B<br />
+https://en.wikipedia.org/wiki/Sublime_Text<br />
 
 
 
