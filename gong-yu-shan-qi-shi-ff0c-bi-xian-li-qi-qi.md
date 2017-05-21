@@ -33,7 +33,7 @@ Notepad++: https://notepad-plus-plus.org/zh/<br />
 
 ###參考資料
 
-wiki:<br />
+
 https://en.wikipedia.org/wiki/Atom_(text_editor)<br />
 https://zh.wikipedia.org/wiki/Notepad%2B%2B<br />
 https://en.wikipedia.org/wiki/Sublime_Text<br />
