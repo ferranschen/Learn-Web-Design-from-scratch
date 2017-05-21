@@ -14,21 +14,19 @@ Atom 是一個由Github開發的文字編輯器，支援OS X, Windows, Linux 系
 
 Sublime Text 也是一個跨平台的文字編輯器，Sublime在 2008 年第一次發布，正式版本則是在2013年，這個文字編輯器有許多愛戴者，原因不外乎他的簡潔介面（也可以客製化各種華麗介面），更值得一提的是，他有許多有用package 可以plugin，例如：Git、LiveReload 、Package Control、Materialized CSS Snippets....等功能。本身具備許多非常著名的功能，例如：Go to anything**、**Command palette ...等功能。你可以選擇購買或者不購買，其實不會差很多。
 
+* Nodepad++
 
+這個文字編輯器是一個非常輕巧簡單的編輯器，最初是由windows api 以及C++ STL寫成的，沒有上面那兩個編輯器比較複雜的功能，它
 
 參考資料
 
 [https://zh.wikipedia.org/wiki/Sublime\_Text](https://zh.wikipedia.org/wiki/Sublime_Text)
 
-[https://zh.wikipedia.org/wiki/Atom\_\(文字編輯器\](https://zh.wikipedia.org/wiki/Atom_%28文字編輯器\)\)
+[https://zh.wikipedia.org/wiki/Atom\_\(文字編輯器\](https://zh.wikipedia.org/wiki/Atom_%28文字編輯器%29\)
 
 [https://www.sublimetext.com](https://www.sublimetext.com)
 
 [https://atom.io](https://atom.io)
 
-https://colorlib.com/wp/sublime-text-plugins/
-
-
-
-
+[https://colorlib.com/wp/sublime-text-plugins/](https://colorlib.com/wp/sublime-text-plugins/)
 
