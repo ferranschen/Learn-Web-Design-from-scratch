@@ -2,7 +2,7 @@
 
 ### 創立一個GitHub帳號
 
-Github: https://github.com/
+GitHub: https://github.com/
 
 ![](/assets/github.jpg)
 
