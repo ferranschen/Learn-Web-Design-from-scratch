@@ -22,6 +22,6 @@
 
 * 參考資料:
 
-http://blog.kodable.com/2014/10/09/planning-coding-curriculum/ <br />
+http://econdataus.com/claim400k.htm <br />
 
 
