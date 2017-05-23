@@ -1,6 +1,6 @@
 # 第一步
 
-### 創立一個Github帳號
+### 創立一個GitHub帳號
 
 Github: https://github.com/
 
