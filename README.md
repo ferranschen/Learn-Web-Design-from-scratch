@@ -14,7 +14,7 @@
 
   5. 創造數個Web的專案
   
-  6. 知名社群Clone (E.g. Dcard、Twitter)
+  6. 知名社群的Clone (E.g. Dcard、Twitter)
 
 * ## 課程所需
 
