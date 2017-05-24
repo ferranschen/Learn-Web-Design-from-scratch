@@ -13,9 +13,8 @@
   4. 了解基礎/進階 Javascript 語法
 
   5. 創造數個Web的專案
-  
-  6. 教你怎麼做出知名社群 (E.g. Dcard、Twitter)
 
+  6. 教你怎麼做出知名社群 \(E.g. Dcard、Twitter\)
 * ## 課程所需
 
   1. 一台具有連線能力的電腦
