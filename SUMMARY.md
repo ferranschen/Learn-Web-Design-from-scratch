@@ -10,6 +10,8 @@
     * [1.2.3 加入聊天室](chuang-jian-zhang-hao/123-jia-ru-liao-tian-shi.md)
   * [1.3 文字編輯器](123.md)
   * [1.4 卡關的時候如何尋求幫助](14-qia-guan-de-shi-hou-ru-he-xun-qiu-bang-zhu.md)
+  * [1.5 GitHub 課程社群使用方式](15-github-ke-cheng-she-qun-shi-yong-fang-shi.md)
+  * [1.6 Gitter 課程聊天室使用方式](16-gitter-ke-cheng-liao-tian-shi-shi-yong-fang-shi.md)
 * [2. HTML ](html-jian-jie.md)
   * [HTML 簡介](html-jian-jie/html-jian-jie.md)
 * [CSS](basic-css.md)
