@@ -5,7 +5,7 @@
 
 
 1. code pen
-2. \[jsbin\]\(http://jsbin.com\)
+2. [JS bin](http://jsbin.com)
 3. GitHubgist
 
 
