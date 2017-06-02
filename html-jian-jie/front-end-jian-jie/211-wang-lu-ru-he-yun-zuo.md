@@ -4,7 +4,7 @@
 >
 > ![](/assets/螢幕快照 2017-06-02 下午9.55.52.png)
 
-* ### 網路如何運作（請先看完影片）
+* ### 影片連結
 
 #### [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
 
@@ -31,6 +31,10 @@ Internet 並不是我們想像中的雲。
 172.217.26.46
 
 * ### 延伸閱讀
+
+
+
+
 
 
 
