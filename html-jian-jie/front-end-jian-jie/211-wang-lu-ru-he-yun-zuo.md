@@ -34,6 +34,11 @@ Internet 並不是我們想像中的雲。
 
 
 
+1.[什麼是DNS](http://dns-learning.twnic.net.tw/dns/01whatDNS.html)
+<br />
+2.[網路封包](https://zh.wikipedia.org/wiki/網路封包)
+<br />
+
 
 
 
