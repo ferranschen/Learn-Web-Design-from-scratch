@@ -4,7 +4,7 @@
 >
 > ![](/assets/螢幕快照 2017-06-02 下午9.55.52.png)
 
-* ### 網路如何運作（以下連結）
+* ### 網路如何運作（請先收看以下連結）
 
 #### [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
 
