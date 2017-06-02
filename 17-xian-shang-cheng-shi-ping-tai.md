@@ -7,6 +7,7 @@
 1. [CodePen](https://codepen.io)
 2. [JS bin](http://jsbin.com)
 3. [GitHubgist](https://gist.github.com)
+4. [Thimble (中文)](https://thimble.mozilla.org/zh-TW)
 
 
 * ### 延伸閱讀
