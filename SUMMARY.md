@@ -19,5 +19,7 @@
     * [2.1.2 Front End 簡介](html-jian-jie/front-end-jian-jie/212-front-end-jian-jie.md)
   * [HTML 簡介](html-jian-jie/html-jian-jie.md)
 * [CSS](basic-css.md)
+  * [CSS 簡介](basic-css/css-jian-jie.md)
 * [Javascript](javascript.md)
+  * [Javascript 簡介](javascript/javascript-jian-jie.md)
 
