@@ -4,9 +4,9 @@
 
 
 
-1. code pen
+1. [CodePen](https://codepen.io)
 2. [JS bin](http://jsbin.com)
-3. GitHubgist
+3. [GitHubgist](https://gist.github.com)
 
 
 
