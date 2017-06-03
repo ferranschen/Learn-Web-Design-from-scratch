@@ -18,7 +18,13 @@
 
 * 靜態 vs 動態 \(Static page vs Dynamic page\)
 
->
+
+
+
+
+* 延伸閱讀
+
+1.[動態網頁](https://zh.wikipedia.org/wiki/%E5%8B%95%E6%85%8B%E7%B6%B2%E9%A0%81 "動態網頁")
 
 
 
