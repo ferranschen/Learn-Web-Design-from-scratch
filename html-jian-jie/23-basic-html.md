@@ -10,8 +10,6 @@
 
 * 瀏覽器不會直接把HTML程式碼show出來，而是經過解讀之後，再根據標籤的型態去顯現內容
 
-
-
 * ### HTML元素
 
 一個元素是由標籤跟內容所構成的
@@ -26,11 +24,31 @@ ex:
 
 前面的標籤是起始標籤，後面的標籤稱為結束標籤（多加一個斜線）。
 
+* ### HTML 註解
+
+```
+<!-- 註解 -->
+<!-- 註解是用來幫助讀者來瞭解程式的邏輯 -->
+<!-- 註解並不會被執行 -->
 
 
-### 一個簡單的HTML檔案
+```
+
+* ### 一個簡單的HTML檔案
+
 ```html
-<h1></h1>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
 ```
 
 
