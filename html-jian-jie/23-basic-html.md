@@ -4,12 +4,12 @@
 
 * HTML 元素 （elements）是HTML網頁的基礎單位
 
-* HTML 元素 （elements）由標籤（tag）與內容組成
+* HTML 元素 （elements）由標籤（tag）與內容\(content\)組成
 
 * HTML 標籤（tags）可以標示：文章、標題、表格...等
 
 * 瀏覽器不會直接把HTML程式碼show出來，而是經過解讀之後，再根據標籤的型態去顯現內容
-
+---
 * ### HTML元素
 
 一個元素是由標籤跟內容所構成的
@@ -24,16 +24,16 @@ ex:
 
 前面的標籤是起始標籤，後面的標籤稱為結束標籤（多加一個斜線）。
 
+---
 * ### HTML 註解
 
-```
+```html
 <!-- 註解 -->
 <!-- 註解是用來幫助讀者來瞭解程式的邏輯 -->
 <!-- 註解並不會被執行 -->
-
-
 ```
 
+---
 * ### 一個簡單的HTML檔案
 
 ```html
@@ -43,13 +43,14 @@ ex:
 <title>Page Title</title>
 </head>
 <body>
-
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
 
 </body>
 </html>
 ```
+---
+
 
 
 
