@@ -2,7 +2,7 @@
 
 >* ###網頁冰山
 
-> 事實上我們所見到的網頁外觀，以及跟網頁的互動，主要都是由HTML、CSS、JAVASCRIPT 所構成的，但這僅僅只是冰山一角。一個大型的網頁，通常有大型的伺服器，伺服器的語言選擇非常多，有PHP、RUBY、JAVASCRIPT，資料庫的選擇也非常多，如: PostgreSQL、MongoDB、CouchDB。我們不用全部都精通，事實上，我們只需要學會HTML、CSS、JAVASCRIPT 就可以做很多類型的網站了。
+> 事實上我們所見到的網頁外觀，以及跟網頁的互動，主要都是由HTML、CSS、JAVASCRIPT 所構成的，但這僅僅只是冰山一角。一個大型的網頁，通常有大型的伺服器，伺服器的語言選擇很多，有PHP、RUBY、JAVASCRIPT，資料庫的選擇也非常多，如: PostgreSQL、MongoDB、CouchDB。我們不用全部都精通，事實上，我們只需要學會HTML、CSS、JAVASCRIPT 就可以做很多類型的網站了。
 ![](/assets/ice.jpg)
 * ### 前端 vs 後端 \(Front End vs Back End\)
 
@@ -17,7 +17,7 @@
 <br/>
 * ### 靜態 vs 動態 \(Static vs Dynamic\)
 >靜態網頁是指，此網頁的內容是固定的，短時間之內不會變動，通常是由管理者以人工的方式改變，例如: [wiki](https://en.wikipedia.org/wiki/Simpson_family)。
-相反的，動態網頁是指，此網頁內容可能隨著時間及使用者參與而變化，例如 : [蘋果新聞](http://www.appledaily.com.tw/ "蘋果新聞")，新聞網站的內容可能只播報當日最新的新聞，有人看完在底下發表意見，過一段時間再來看，頁面的顯示的內容可能就會改變。動態網頁也可能是互動式的網頁，會有許多使用者共同去改變網頁顯示的內容，例如: [facebook](https://www.facebook.com/) 貼文過一段時間，讚數增加。
+相反的，動態網頁是指，此網頁內容可能隨著時間及使用者參與而變化，例如 : [蘋果新聞](http://www.appledaily.com.tw/ "蘋果新聞")，新聞網站的內容可能只播報當日最新的新聞，有人看完在底下發表意見，過一段時間再來看，頁面的顯示的內容可能就會改變。動態網頁也可能是互動式的網頁，會有許多使用者共同去改變網頁顯示的內容，例如:在 [facebook](https://www.facebook.com/) 貼文，過一段時間後，讚數增加。
 ![](/assets/ales-krivec-2859.jpg)
 
 
