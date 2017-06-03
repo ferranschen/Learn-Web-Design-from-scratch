@@ -15,7 +15,7 @@
 <br />
 <br />
 
-事實上，網路只是一條線，這條線上有client端(用戶端)以及server端(服務端)，由client端發出服務請求，server端回應。server端擁有大量資訊跟強大的運算能力。（例子 : 在youtube上打辛普森家庭，youtube server收到影片的請求，然後傳送辛普森家庭的影片給client，client的瀏覽器收到之後便開始播放。）  
+事實上，網路只是一條線，這條線上有client端(用戶端)以及server端(服務端)，由client端發出服務請求，server端回應。server端擁有大量資訊跟強大的運算能力。（例子 : 在youtube上打辛普森家庭，youtube server收到影片的請求，然後傳送辛普森家庭的影片給client端，client端的瀏覽器收到之後便開始播放影片。）  
 ![](/assets/螢幕快照 2017-06-02 下午9.12.04.png)
 <br />
 <br />
