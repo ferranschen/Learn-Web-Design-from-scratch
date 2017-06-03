@@ -1,10 +1,10 @@
 # Front End 簡介
 
-* 網頁冰山
+* ###網頁冰山
 
 > 事實上我們所見到的網頁外觀，以及跟網頁的互動，主要都是由HTML、CSS、JAVASCRIPT 所構成的，但這僅僅只是冰山一角。一個大型的網頁，通常有大型的伺服器，伺服器的語言選擇非常多，有PHP、RUBY、JAVASCRIPT，資料庫的選擇也非常多，如: PostgreSQL、MongoDB、CouchDB。![](/assets/ice.jpg)
 
-* 前端 vs 後端 \(Front End vs Back End\)
+* ### 前端 vs 後端 \(Front End vs Back End\)
 
 > 前端代表網頁上所見到的、所體驗到的任何呈現。
 >
@@ -14,13 +14,19 @@
 >
 > 這就像去餐廳吃飯一樣，客人向服務生點了一個餐點，服務生把餐點要求告訴廚房，廚師收到餐點要求後，便把食物的材料準備好，然後花時間把食物煮好，最後服務生將餐點端到餐桌上。在這個例子中，後端就是廚房，前端就是餐桌，事實上我們比較難察覺後端發生的事情，因為我們只看到餐桌上的菜色，或是餐廳的裝潢。
 
+
 ![](/assets/toa-heftiba-195458.jpg)
-
-* 靜態 vs 動態 \(Static page vs Dynamic page\)
-
-
+<br/>
+<br/>
 
 
+* ### 靜態 vs 動態 \(Static vs Dynamic\)
+
+
+
+
+<br/>
+<br/>
 
 * 延伸閱讀
 
