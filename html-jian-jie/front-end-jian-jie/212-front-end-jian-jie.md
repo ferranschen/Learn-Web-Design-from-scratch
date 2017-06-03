@@ -16,7 +16,7 @@
 <br/>
 * ### 靜態 vs 動態 \(Static vs Dynamic\)
 >靜態網頁是指，此網頁的內容是固定的，短時間之內不會變動，通常是由人為的方式改變，例如:[wiki](https://en.wikipedia.org/wiki/Simpson_family)。
-動態網頁是指，此網頁內容會隨著時間變化，例如:[蘋果新聞](http://www.appledaily.com.tw/ "蘋果新聞")，新聞網站的內容可能只播報當日最新的新聞，過一段時間再來看，頁面的內容可能就會改變。或是互動式的網頁，會有許多使用者共同去改變網頁顯示的內容，例如: [facebook](https://www.facebook.com/) 貼文，按讚。
+動態網頁是指，此網頁內容可能隨著時間變化，例如 : [蘋果新聞](http://www.appledaily.com.tw/ "蘋果新聞")，新聞網站的內容可能只播報當日最新的新聞，過一段時間再來看，頁面的內容可能就會改變。或是互動式的網頁，會有許多使用者共同去改變網頁顯示的內容，例如: [facebook](https://www.facebook.com/) 貼文，按讚。
 ![](/assets/ales-krivec-2859.jpg)
 
 
