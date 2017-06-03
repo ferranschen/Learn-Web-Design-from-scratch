@@ -34,7 +34,7 @@ ex:
 ```
 
 ---
-* ### 一個簡單的HTML檔案
+* ### 一個標準的HTML檔案
 
 ```html
 <!DOCTYPE html>
