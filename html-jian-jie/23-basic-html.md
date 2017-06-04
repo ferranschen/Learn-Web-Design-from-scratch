@@ -57,17 +57,39 @@ ex:
 
 </body>
 </html>
-
 ```
-
- 
 
 * 這是一個標準的格式，不用死記，因為以後常會看到。
 * DOCTYPE 告訴瀏覽器，這個檔案是哪一種檔案，此例為：html。
 * 除了 DOCTYPE 之外，所有的元素都是起始標籤＋結束標籤構成的。
-* html 檔案中，有head及body，在head 裡面，我們會放metadada(現在先不用瞭解)。在body裡面，我們會放網站的內容。
+* html 檔案中，有head及body，在head 裡面，我們會放metadada\(現在先不用瞭解\)。在body裡面，我們會放網站的內容。
 
 ---
+
+* ### 小試身手
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>My first page</title>
+</head>
+<body>
+<h1>My first heading</h1>
+<p>Hello, This is my first page.</p>
+
+</body>
+</html>
+```
+
+* [ ] 將上述的程式碼打入你的文字編輯器。
+* [ ] 把檔案用“first.html”的的檔名存檔。
+* [ ] 點擊兩下“first.html”開啟檔案，或是將檔案拖曳到瀏覽器打開！
+* [ ] 更改h1, p 或是 title 等元素中的內容，存檔之後，再把它放到瀏覽器上，觀察有什麼變化。
+
+
+
+恭喜你！你已經會寫一個格式正確的HTML檔案了，你可以發現撰寫 HTML 其實不會很困難，下個章節我們會詳細介紹。
 
 
 
