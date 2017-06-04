@@ -49,19 +49,25 @@ ex:
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>網頁標題</title>
 </head>
 <body>
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>內文標題</h1>
+<p>文章段落</p>
 
 </body>
 </html>
+
 ```
 
+ 
+
+* 這是一個標準的格式，不用死記，因為以後常會看到。
+* DOCTYPE 告訴瀏覽器，這個檔案是哪一種檔案，此例為：html。
+* 除了 DOCTYPE 之外，所有的元素都是起始標籤＋結束標籤構成的。
+* html 檔案中，有head及body，在head 裡面，我們會放metadada(現在先不用瞭解)。在body裡面，我們會放網站的內容。
+
 ---
-
-
 
 
 
