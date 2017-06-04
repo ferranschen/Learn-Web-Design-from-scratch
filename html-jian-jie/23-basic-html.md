@@ -6,7 +6,7 @@
 
 * HTML 就是 Hyper Text Markup Language 的縮寫
 
-* HTML 的元素 （elements）是HTML網頁的基礎單位
+* HTML 的元素 （elements）是 HTML 網頁的基礎單位
 
 * HTML 的元素 （elements）由標籤（tag）與內容\(content\)組成
 
@@ -35,7 +35,6 @@ ex:
 * ### HTML 註解
 
 ```html
-<!-- 註解 -->
 <!-- 註解是用來幫助讀者來瞭解程式的邏輯 -->
 <!-- 註解並不會被執行 -->
 ```
