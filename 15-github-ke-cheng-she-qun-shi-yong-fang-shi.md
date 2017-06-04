@@ -1,6 +1,6 @@
 #GitHub 社群使用方式
 
-
+<font color="red">要上色的文字</font>
 <quiz name="幹你娘">
     <question multiple>
         <p>What is gitbook used for?</p>
