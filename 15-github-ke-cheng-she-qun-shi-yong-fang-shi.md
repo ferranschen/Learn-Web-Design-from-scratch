@@ -1,7 +1,7 @@
 #GitHub 社群使用方式
 
 
-<quiz name="幹你娘">
+<quiz name="test quiz">
     <question multiple>
         <p>What is gitbook used for?</p>
         <answer correct>To read books</answer>
