@@ -1,6 +1,6 @@
 #GitHub 社群使用方式
 
----
+***
 Define a variable `x` equal to 10.
 
 '''js
@@ -22,5 +22,5 @@ function magicFunc() {
    return 3;
 }
 '''
----
+***
 
