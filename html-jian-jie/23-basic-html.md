@@ -6,7 +6,7 @@
 
 * 嚴格來說，HTML不算是程式語言，而是一種標記語言。
 
-* HTML 就是 Hyper Text Markup Language 的縮寫。
+* HTML 是 Hyper Text Markup Language 的縮寫。
 
 * HTML 的元素 （elements）是 HTML 網頁的基礎單位。
 
