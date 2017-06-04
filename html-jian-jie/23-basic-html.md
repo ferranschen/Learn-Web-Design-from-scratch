@@ -2,7 +2,7 @@
 
 > 這個章節介紹基本HTML 語法，並實作完整的HTML網站。
 
-### 所以，HTML的本質是什麼?
+### 首先，HTML的本質是什麼?
 
 * HTML 就是 Hyper Text Markup Language 的縮寫
 
