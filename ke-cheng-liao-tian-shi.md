@@ -7,6 +7,6 @@
 #### 為了成功學習，你需要大量練習以及資源，所以我們提供了大量練習資源以及整個社群來幫助你學習。
 
 
-
+{% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
 
 
