@@ -4,8 +4,8 @@
 
 ### 語法查詢
 
-> 在介紹Tags之前，先介紹兩個Web開發的語法查詢網站，分別是  
-> [MDN](https://developer.mozilla.org/zh-TW/)以及[W3School](https://www.w3schools.com)，在上面你可以得到非常詳細的資訊，也可以在上面學習到一些語法的使用慣例。
+> 在介紹 tags 之前，先介紹兩個 Web 開發的語法查詢網站，分別是  
+> [MDN](https://developer.mozilla.org/zh-TW/) 以及 [W3School](https://www.w3schools.com)，在上面你可以得到非常詳細的資訊，也可以在上面學習到一些語法的使用慣例。
 
 
 * ### &lt; h1 &gt; to &lt; h6 &gt; Tag
@@ -21,7 +21,7 @@
 
 &lt; h1 &gt; 到 &lt; h6 &gt; 分別代表不同等級的標題，&lt; h1 &gt;最高，&lt; h6 &gt;最小，下圖為顯示結果。
 
-![](/assets/螢幕快照 2017-06-05 上午1.56.42.png)
+![](/assets/螢幕快照 2017-06-05 上午3.11.16.png)
 
 使用習慣
 
@@ -40,7 +40,7 @@
 ![](/assets/螢幕快照 2017-06-05 上午2.50.29.png)
 
 你可以發現，瀏覽器遇到段落會加上一個換行，而不會直接接到下一個段落。
-另外如標題&lt; h1 &gt;不要在&lt; p &gt; 中使用align屬性
+另外，如&lt; h1 &gt;，不要在&lt; p &gt; 中使用“align”屬性
 
 
 
