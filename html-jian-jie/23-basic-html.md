@@ -6,13 +6,13 @@
 
 * HTML 就是 Hyper Text Markup Language 的縮寫
 
-* HTML 元素 （elements）是HTML網頁的基礎單位
+* HTML 的元素 （elements）是HTML網頁的基礎單位
 
-* HTML 元素 （elements）由標籤（tag）與內容\(content\)組成
+* HTML 的元素 （elements）由標籤（tag）與內容\(content\)組成
 
-* HTML 標籤（tags）可以標示：文章、標題、表格...等
+* HTML 的標籤（tags）可以標示：文章、標題、表格...等
 
-* 瀏覽器不會直接把HTML程式碼show出來，而是經過解讀之後，再根據標籤的型態去顯現內容
+* 瀏覽器不會直接把HTML程式碼印出來，而是經過解讀之後，再根據標籤的型態去顯現內容
 
 ---
 
