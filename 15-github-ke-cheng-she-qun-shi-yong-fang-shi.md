@@ -1,23 +1,25 @@
 # GitHub 社群使用方式
 
-{% exercise %}
-Define a variable `x` equal to 10.
+---
 
-{% initial %}
-var x =
+Here's a quiz about Gitbook
 
-{% solution %}
-var x = 10;
+|                  | Good | Bad |
+| ---------------- | ---- | --- |
+| What is Gitbook? | (x)  | ( ) |
 
-{% validation %}
-assert(x == 10);
+> Gitbook is good
 
-{% context %}
-// This is context code available everywhere
-// The user will be able to evaluate `exposedVar`
-var exposedVar = 3;
-// ... or call `exposedFunction`
-function exposedFunction {
-    return 3;
-}
-{% endexercise %}
+What does Gitbook support?
+- [x] Table-based questions with radio buttons
+- [x] Table-based questions with checkboxes
+- [ ] Telepathy
+- [x] List-based questions with checkboxes
+- [x] List-based questions with radio buttons
+- [ ] Moon-on-a-stick
+
+> Gitbook supports table and list based quiz questions using either radio buttons or checkboxes.
+>
+> Gitbook is not telepathic and does not give you the moon on a stick.
+
+---
