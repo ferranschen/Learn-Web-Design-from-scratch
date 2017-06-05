@@ -28,7 +28,7 @@
 1. 通常作為一段文章的標題，盡量從 h1 -&gt; h2 -&gt; h3 -&gt; h4 -&gt; h5 -&gt; h6 這個順序去使用，如果你使用 h1 - &gt; h3 或是 h2 -&gt; h5，那麼這種標題的落差感會太大。
 2. 標題階級只是一種比例，沒有絕對的大小，不同的瀏覽器有不同的size，如果你需要微調標題大小，請你使用[ CSS font-size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size) （在CSS章節會提到）。
 
-3. "align" 這個屬性在 HTML 5 已經被淘汰了，所以不要在標題\(h1~h6\)中使用 align 屬性\(之後會討論更多關於屬性attribute的議題\)。
+3. "align" 這個屬性在 HTML 5 已經被淘汰了，所以不要在標題\(h1~h6\)中使用 align 屬性\(之後會討論更多關於屬性 attribute 的議題\)。
 ---
 * ### &lt; p &gt; Tag
 
