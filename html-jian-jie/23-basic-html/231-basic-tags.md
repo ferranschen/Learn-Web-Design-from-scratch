@@ -1,8 +1,8 @@
-### Basic Tags
+# Basic Tags
 
 > 這個章節介紹幾個常見的 tags。
 
-### 語法查詢
+# 語法查詢
 
 > 在介紹 tags 之前，先介紹兩個 Web 開發的語法查詢網站，分別是  
 > [MDN](https://developer.mozilla.org/zh-TW/) 以及 [W3School](https://www.w3schools.com)，在上面你可以得到非常詳細的資訊，也可以在上面學習到一些語法的使用慣例。
