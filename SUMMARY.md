@@ -20,6 +20,8 @@
   * [2.2 HTML 簡介](html-jian-jie/html-jian-jie.md)
   * [2.3 Basic HTML](html-jian-jie/23-basic-html.md)
     * [2.3.1 Basic tags](html-jian-jie/23-basic-html/231-basic-tags.md)
+      * [2.3.1 自我檢視](html-jian-jie/23-basic-html/231-basic-tags/231-zi-wo-jian-shi.md)
+      * [2.3.1 作業](html-jian-jie/23-basic-html/231-basic-tags/231-zuo-ye.md)
 * [CSS](basic-css.md)
   * [CSS 簡介](basic-css/css-jian-jie.md)
 * [Javascript](javascript.md)
