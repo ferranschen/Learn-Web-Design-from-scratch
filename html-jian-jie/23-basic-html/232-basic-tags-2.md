@@ -35,14 +35,13 @@
 
 * ### Block vs Inline Elements
 
->剛剛有提到inline element 跟 block-level element，以下我們簡單做一個區別，現在可能還比較沒有感覺，在後面的例子慢慢就會察覺出來差別了。
+> 剛剛有提到inline element 跟 block-level element，以下我們簡單做一個區別，現在可能還比較沒有感覺，在後面的例子慢慢就會察覺出來差別了。
 
 #### Block-level Elements
 
 瀏覽器遇到這種標籤首先會在它前面加入一個換行。另外，這種標籤的寬度會盡可能往左右兩邊延伸到最大。
 
 常見的 Block-level Elements 如下：
-
 
 ```html
 <div> </div> 
@@ -70,32 +69,12 @@
 
 #### 參考例子：
 
-
 ```html
-<p>Lorem ipsum dolor sit amet, <span style="color: green">consectetur adipisicing elit,</span> sed do eiusmod
-	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-	<p>Lorem ipsum dolor sit amet, <div style="color:red">consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore </div> magna aliqua. Ut enim ad minim veniam,
-	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>工為而晚紙又；中建後，<span style="color: red">遠喜次南公蘭己人麗這生……媽裡童，</span>
+來至資士縣和，時統全一主下股果取我把世；經位多心樣，<div style="color: green">學答斷！音產意旅花
+。長劇是節李具</div>：止今寫作只年：臺制片我都機品是可運何文的……於勢心至國黃自人品星的本圖。表媽量遠時量，
+風一以可海優看要安立隊德改前國為思玩歌造過員晚三檢讀面竟下無一。</p>
 ```
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
