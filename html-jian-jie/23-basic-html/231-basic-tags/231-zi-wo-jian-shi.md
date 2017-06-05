@@ -11,7 +11,7 @@
         <explanation>MDN 跟 W3School 都有提供詳盡的語法說明以及使用慣例。</explanation>
     </question>
     <question multiple>
-        <p>2.使用哪一個標籤來顯現文章的標題？</p>
+        <p>2.使用哪一種標籤來顯現文章的標題？</p>
         <answer correct>&lt; h1 &gt; &lt; h2 &gt; &lt; h3 &gt; &lt; h4 &gt; &lt; h5 &gt;  &lt; h6 &gt;</answer>
         <answer>&lt; div &gt;</answer>
         <answer>&lt; title &gt;</answer>
