@@ -82,7 +82,6 @@ unordered list (ul) 無序列表，以及 ordered list (ol) 有序列表，會�
   <li>second item</li>
   <li>third item</li>  
   </ol>
-  <!--巢狀列表-->
   <li>Tea</li>
   <li>Milk</li>
 </ul>
