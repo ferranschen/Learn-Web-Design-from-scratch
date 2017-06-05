@@ -71,7 +71,7 @@
 	<title>麻醬涼麵 食譜</title>
 </head>
 ```
-5. 請以“username_hw.html” 檔名上傳至 2.3.1HW 資料夾（e.g david_hw.html）。
+5. 請以“username_hw.html” 檔名上傳至 2.3.1HW 資料夾（e.g. david_hw.html）。
 ### 加分題
 
 1. 為你的程式碼加入註解。
