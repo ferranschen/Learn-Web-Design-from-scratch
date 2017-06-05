@@ -25,10 +25,10 @@
         <explanation>標題階級只是一種比例，沒有絕對的大小，不同的瀏覽器有不同的size。</explanation>
     </question>
     <question>
-    <p>4.我們應該要多用標題標籤中的"align" 屬性，才能讓排版更美觀。</p>
+    <p>4.我們應該要多用標題標籤中的 "align" 屬性，才能讓排版更美觀。</p>
     <answer>Yes</answer>
     <answer correct>No</answer>
-    <explanation>"align" 這個屬性在 HTML 5 已經被淘汰了，所以不要在標題\(h1~h6\)中使用 align 屬性。</explanation>    
+    <explanation>"align" 這個屬性在 HTML 5 已經被淘汰了，所以不要在標題(h1~h6)中使用 align 屬性。</explanation>    
     </question>
     <question>
     <p>5.&lt; ol &gt; 是無序列表。</p>
