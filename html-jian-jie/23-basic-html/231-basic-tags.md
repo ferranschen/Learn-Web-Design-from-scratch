@@ -1,6 +1,6 @@
 ### Basic Tags
 
-> 這個章節介紹幾個常見的tag。
+> 這個章節介紹幾個常見的 tags。
 
 ### 語法查詢
 
@@ -25,10 +25,10 @@
 
 使用習慣
 
-1. 通常作為一段文章的標題，盡量從h1 -&gt; h2 -&gt; h3 -&gt; h4 -&gt; h5 -&gt; h6 這個順序去使用，如果你用h1 - &gt; h3 或是h2 -&gt; h5，那麼這種標題的落差感會太大。
+1. 通常作為一段文章的標題，盡量從 h1 -&gt; h2 -&gt; h3 -&gt; h4 -&gt; h5 -&gt; h6 這個順序去使用，如果你使用 h1 - &gt; h3 或是 h2 -&gt; h5，那麼這種標題的落差感會太大。
 2. 標題階級只是一種比例，沒有絕對的大小，不同的瀏覽器有不同的size，如果你需要微調標題大小，請你使用[ CSS font-size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size) （在CSS章節會提到）。
 
-3. "align" 這個屬性在HTML 5 已經被淘汰了，所以不要在標題\(h1~h6\)中使用align 屬性\(之後會討論更多關於屬性attribute的議題\)。
+3. "align" 這個屬性在 HTML 5 已經被淘汰了，所以不要在標題\(h1~h6\)中使用 align 屬性\(之後會討論更多關於屬性attribute的議題\)。
 ---
 * ### &lt; p &gt; Tag
 
@@ -91,7 +91,7 @@ unordered list (ul) 無序列表，以及 ordered list (ol) 有序列表，會�
 ![](/assets/螢幕快照 2017-06-05 下午3.14.57.png)
 
 <br/>
-下圖為“start” 屬性以及“reversed” 屬性的使用方式。
+下圖為 “start” 屬性以及 “reversed” 屬性的使用方式。
 ```html
 <ol reversed >
 	<li>first item</li>
