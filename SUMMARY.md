@@ -22,6 +22,8 @@
     * [2.3.1 Basic tags](html-jian-jie/23-basic-html/231-basic-tags.md)
       * [2.3.1 自我檢視](html-jian-jie/23-basic-html/231-basic-tags/231-zi-wo-jian-shi.md)
       * [2.3.1 作業](html-jian-jie/23-basic-html/231-basic-tags/231-zuo-ye.md)
+    * [2.3.2 Basic tags 2 ](html-jian-jie/23-basic-html/232-basic-tags-2.md)
+    * [2.3.3 Tag Attributes](html-jian-jie/23-basic-html/233-tag-attributes.md)
 * [CSS](basic-css.md)
   * [CSS 簡介](basic-css/css-jian-jie.md)
 * [Javascript](javascript.md)
