@@ -28,7 +28,7 @@
 <p>我有一雙<span style="color:blue">藍色的</span>眼睛， 他的眼睛是<span style="color:darkolivegreen">深綠色的</span>。</p>
 ```
 
-這個標籤跟 &lt; div &gt; 功能幾乎是一樣的，不過這個元素是inline element，只能容納文字或者其他inline elements。相反地， &lt; div &gt; 是block-level element，下圖為顯示結果。
+這個標籤跟 &lt; div &gt; 功能幾乎是一樣的，不過這個元素是inline element，只能容納文字或者其他inline elements。相反地， &lt; div &gt; 是 block-level element，下圖為顯示結果。
 
 ![](/assets/螢幕快照 2017-06-06 上午1.06.27.png)
 
