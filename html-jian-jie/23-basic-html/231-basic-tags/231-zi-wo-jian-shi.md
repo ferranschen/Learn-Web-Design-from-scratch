@@ -1,7 +1,7 @@
 #2.3.1 自我檢視
 
 
-<quiz name="2.3.1 自我檢視">
+<quiz>
     <question multiple>
         <p>1.課文中介紹了哪兩個可以查詢語法的網站?</p>
         <answer correct>MDN</answer>
