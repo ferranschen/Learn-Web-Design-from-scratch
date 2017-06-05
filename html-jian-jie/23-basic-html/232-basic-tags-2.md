@@ -10,6 +10,7 @@
   <p>This is a paragraph.</p>
 </div>
 
+<!--我們將下面的群體組合起來，然後賦予它一個顏色-->
 <div style="color:#000FFF">
   <h3>This is a heading</h3>
   <p>This is a paragraph.</p>
