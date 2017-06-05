@@ -36,7 +36,7 @@
 
 * ### Block vs Inline Elements
 
-> 剛剛有提到 inline element 跟 block-level element，以下我們簡單做一個區別，現在可能還比較沒有感覺，在後面的例子慢慢就會察覺出來差別了。
+> 剛剛有提到 inline element 跟 block-level element，以下我們簡單做一個區別。
 
 #### Block-level Elements
 
@@ -88,7 +88,7 @@
 
 ### 單元總結
 
- > 這個章節我們介紹了兩個標籤，分別是&lt; div &gt; 跟 &lt; span &gt;。我們更進一步的瞭解 Block 跟 Inline Elements 的差別。不要被這些名詞嚇到，先有基本的概念就行了，以後的例子比較能感受到差別。
+ > 這個章節我們介紹了兩個標籤，分別是&lt; div &gt; 跟 &lt; span &gt;。我們更進一步的解釋 Block 跟 Inline Elements 的差別。不要被這些名詞嚇到，先有基本的概念就行了，以後的例子比較能感受到差別。
 
 
 
