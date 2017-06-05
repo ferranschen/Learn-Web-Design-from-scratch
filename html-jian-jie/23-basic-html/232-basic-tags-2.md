@@ -1,4 +1,4 @@
-# Basic Tags
+# Basic Tags 2
 
 > 這個章節介紹div以及span，它們可以將元素組合起來，有點像是一個容器。
 
