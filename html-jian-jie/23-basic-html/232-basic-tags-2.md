@@ -14,14 +14,34 @@
   <p>This is a paragraph.</p>
 </div>
 
-<div style="color:#0000FF">
+<div style="color:#000FFF">
   <h3>This is a heading</h3>
   <p>This is a paragraph.</p>
 </div>
 ```
-可以把這個標籤想像成一個袋子，裡面裝了其他元素，這些元素組成的一個群體，通常用來改變一個群體的風格外觀。
+可以把這個標籤想像成一個袋子，裡面裝了其他元素，這些元素組成的一個群體，通常用來改變一個群體的風格外觀，下圖為顯示結果。
+![](/assets/螢幕快照 2017-06-06 上午12.34.28.png)
+
 
 * ### &lt; span &gt;Tag
+
+```html
+<p>我有一雙<span style="color:blue">藍色的</span>眼睛， 他的眼睛是<span style="color:darkolivegreen">深綠色的</span>。</p>
+```
+這個標籤跟 &lt; div &gt; 功能幾乎是一樣的，不過這個元素是inline element，而 &lt; div &gt; 是block-level element，下圖為顯示結果。
+
+![](/assets/螢幕快照 2017-06-06 上午1.06.27.png)
+
+
+* ### Block vs Inline Elements
+
+
+
+
+
+
+
+
 
 
 
