@@ -86,11 +86,15 @@ unordered list (ul) 無序列表，以及 ordered list (ol) 有序列表，會�
   <li>Milk</li>
 </ul>
 ```
+
 下圖為巢狀列表的顯示結果。
+
 ![](/assets/螢幕快照 2017-06-05 下午3.14.57.png)
 
 <br/>
+
 “start” 屬性以及 “reversed” 屬性的使用方式如下。
+
 ```html
 <ol reversed >
 	<li>first item</li>
@@ -108,6 +112,7 @@ unordered list (ul) 無序列表，以及 ordered list (ol) 有序列表，會�
 <li>third item</li>
 </ol>
 ```
+
 下圖為顯示結果。
 
 <br/>
