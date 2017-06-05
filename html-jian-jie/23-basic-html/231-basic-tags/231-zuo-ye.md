@@ -70,7 +70,7 @@
 3. 標題大小請從 &lt; h1 &gt; 開始。
 4. 文字敘述已經列在上面，可以直接複製。
 
-5. 請以“username\_hw.html” 檔名上傳至 2.3.1HW 資料夾（e.g. david123\_hw.html），經過檢驗之後才會放到 master 資料夾。
+5. 請以“username\_hw.html” 檔名上傳至 2.3.1HW 資料夾（e.g. david123\_hw.html），經過檢驗之後，我再放入 master 資料夾。
 
 6. 如果網頁出現亂碼請在head 中加入一行：
 
