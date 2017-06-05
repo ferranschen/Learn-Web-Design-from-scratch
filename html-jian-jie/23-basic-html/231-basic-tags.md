@@ -46,25 +46,49 @@
 
 ```html
 <ul>
-  <li>first item</li>
-  <li>second item</li>
-  <li>third item</li>
-</ul>
-<ol>
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
+</ul>
+<ol>
+  <li>first item</li>
+  <li>second item</li>
+  <li>third item</li>  
 </ol>
 ```
 unordered list (ul) 無序列表，以及 ordered list (ol) 有序列表，會搭配 &lt; li &gt; 來呈現，下圖為顯示結果。 
-![](/assets/螢幕快照 2017-06-05 下午2.52.51.png)
+
+![](/assets/螢幕快照 2017-06-05 下午2.58.09.png)
+
+
 
 使用習慣
 
-1. 通常作為一段文章的標題，盡量從h1 -&gt; h2 -&gt; h3 -&gt; h4 -&gt; h5 -&gt; h6 這個順序去使用，如果你用h1 - &gt; h3 或是h2 -&gt; h5，那麼這種標題的落差感會太大。
-2. 標題階級只是一種比例，沒有絕對的大小，不同的瀏覽器有不同的size，如果你需要微調標題大小，請你使用[ CSS font-size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size) （在CSS章節會提到）。
+1. 兩者最大的差別在於，無序列表的使用通常不在乎順序，而有序列表的順序對於表達是有意義的。
 
-3. "align" 這個屬性在HTML 5 已經被淘汰了，所以不要在標題\(h1~h6\)中使用align 屬性\(之後會討論更多關於屬性attribute的議題\)。
+2. 兩個列表都可以以巢狀的方式顯現（下例）。
+
+3. 在 &lt; ol &gt; 中，你可以使用 “start” 屬性，來指定起始的順序，也可以用 “reversed” 屬性將順序翻轉。
+
+下圖為巢狀列表的使用方式。
+
+```html
+<ul>
+  <li>Coffee</li>
+  <!--巢狀列表-->
+  <ol>
+  <li>first item</li>
+  <li>second item</li>
+  <li>third item</li>  
+  </ol>
+  <!--巢狀列表-->
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+```
+下圖為巢狀列表的顯示結果。
+
 
  
 
