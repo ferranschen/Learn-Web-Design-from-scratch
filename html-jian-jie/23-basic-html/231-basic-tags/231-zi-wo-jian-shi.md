@@ -31,9 +31,9 @@
     <explanation>"align" 這個屬性在 HTML 5 已經被淘汰了，所以不要在標題\(h1~h6\)中使用 align 屬性</explanation>    
     </question>
     <question>
-    <p>4.我們應該要多在標題標籤中使用 "align" 屬性，才能讓排版更美觀。</p>
+    <p>4.&lt; ol &gt; 是無序列表。</p>
     <answer>Yes</answer>
     <answer correct>No</answer>
-    <explanation>"align" 這個屬性在 HTML 5 已經被淘汰了，所以不要在標題\(h1~h6\)中使用 align 屬性</explanation>    
+    <explanation>&lt; ol &gt; 是有序列表。</explanation>    
     </question>
 </quiz>
