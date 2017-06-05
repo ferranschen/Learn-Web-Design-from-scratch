@@ -87,7 +87,7 @@
 
 ### 單元總結
 
- > 這個章節我們介紹了兩個標籤，分別是&lt; div &gt; 跟 &lt; span &gt;。我們更進一步的瞭解 Block 跟 Inline Elements 的差別。不要被這些名詞嚇到，藉由例子慢慢接受這些概念就行了。
+ > 這個章節我們介紹了兩個標籤，分別是&lt; div &gt; 跟 &lt; span &gt;。我們更進一步的瞭解 Block 跟 Inline Elements 的差別。不要被這些名詞嚇到，先有基本的概念就行了。
 
 
 
