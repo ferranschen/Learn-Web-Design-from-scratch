@@ -36,7 +36,7 @@
 
 * ### Block vs Inline Elements
 
-> 剛剛有提到inline element 跟 block-level element，以下我們簡單做一個區別，現在可能還比較沒有感覺，在後面的例子慢慢就會察覺出來差別了。
+> 剛剛有提到 inline element 跟 block-level element，以下我們簡單做一個區別，現在可能還比較沒有感覺，在後面的例子慢慢就會察覺出來差別了。
 
 #### Block-level Elements
 
