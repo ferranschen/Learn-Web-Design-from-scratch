@@ -1,5 +1,4 @@
-#
-Basic Tags
+#Basic Tags
 
 > 這個章節介紹幾個常見的 tags。
 
