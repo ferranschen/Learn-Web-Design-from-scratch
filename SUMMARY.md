@@ -13,6 +13,7 @@
   * [1.5 GitHub 社群使用方式](15-github-ke-cheng-she-qun-shi-yong-fang-shi.md)
   * [1.6 Gitter 社群使用方式](16-gitter-ke-cheng-liao-tian-shi-shi-yong-fang-shi.md)
   * [1.7 線上程式平台](17-xian-shang-cheng-shi-ping-tai.md)
+  * [1.8 自我檢視](18-zi-wo-jian-shi.md)
 * [2. HTML ](html-jian-jie.md)
   * [2.1 Web 簡介](html-jian-jie/front-end-jian-jie.md)
     * [2.1.1 網路如何運作](html-jian-jie/front-end-jian-jie/wang.md)
