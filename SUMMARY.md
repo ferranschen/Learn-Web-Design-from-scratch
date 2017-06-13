@@ -7,6 +7,7 @@
   * [1.2 創建帳號](chuang-jian-zhang-hao.md)
     * [1.2.1 Github](chuang-jian-zhang-hao/github.md)
     * [1.2.2 加入社群](chuang-jian-zhang-hao/jia-ru-she-qun.md)
+    * 1.2.3  Gitbook
   * [1.3 文字編輯器](123.md)
   * [1.4 線上程式平台](17-xian-shang-cheng-shi-ping-tai.md)
   * [1.5 卡關的時候如何尋求幫助](14-qia-guan-de-shi-hou-ru-he-xun-qiu-bang-zhu.md)
@@ -35,4 +36,5 @@
 * [Javascript](javascript.md)
   * [Javascript 簡介](javascript/javascript-jian-jie.md)
 * [問題回報](wen-ti-hui-bao.md)
+* [版權聲明](ban-quan-sheng-ming.md)
 
