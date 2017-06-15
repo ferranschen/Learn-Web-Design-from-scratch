@@ -52,6 +52,7 @@
 2.[網路封包](https://zh.wikipedia.org/wiki/網路封包)
 <br />
 3.[ISP是什麼](https://zh.wikipedia.org/wiki/互联网服务供应商)<br />
+4.[電腦網路教學系列]（https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO） <br/>
 
 
 
