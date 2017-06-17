@@ -33,16 +33,17 @@
         <input type="submit">
 </form>
 ```
-以下為對應的網頁顯示畫面。
+
+以下為對應的網頁顯示畫面。  
 ![](/assets/螢幕快照 2017-06-18 上午12.09.31.png)
 
 * ### 小試身手
 
-1.把上面的例子打在文字編輯器上面。
-2.用瀏覽器開啟來看(建議使用google chrome)。
+1.把上面的例子打在文字編輯器上面。  
+2.用瀏覽器開啟來看\(建議使用google chrome\)。  
 3.輸入一些資訊試試看。
 
-* ### placeholder 
+* ### placeholder
 
 ```html
 <form action="" method="">
@@ -50,38 +51,29 @@
         <input type="password" placeholder="密碼">
 </form>
 ```
+
 placeholder 是一個很常用的屬性，這個屬性可以產生一串提示字串，讓使用者可以明白這個表格需要填入哪些資訊。
 
-以下為對應的網頁顯示畫面。
+以下為對應的網頁顯示畫面。  
 ![](/assets/螢幕快照 2017-06-18 上午12.37.34.png)
 
 * ### action and method 屬性
 
-剛剛一直沒有提到的這兩個屬性，這兩個屬性在前端開發中比較感受不到它們的存在，action 是把資料送到某個地方，method 則是指我們要使用哪一種方法去送。
+剛剛一直沒有提到的這兩個屬性，這兩個屬性在前端開發中比較感受不到它們的存在，action 是把資料送到某個地方，method 則是指我們要使用哪一種方法去送。  
 以下是一個例子：
+
 ```html
-<form action="https://www.google.com" method="get">
-		<input type="text">
-		<input type="submit">
+<form action="https://www.google.com" method="GET">
+        <input type="text">
+        <input type="submit">
 </form>
 ```
-你可以在文字編輯器中打入，事實上我們不會真的把資料送去google.com，在 action 中我們通常把資料送到網頁的伺服器，網頁伺服器收到資訊之後，再回傳一些訊息，不過這個部分比較偏向後端，在以後我們會有更詳細的介紹，這邊只是一個範例，讓你有一些感覺。
 
+你可以在文字編輯器中打入程式碼試試看，事實上我們不會真的把資料送去google.com，在 action 中我們通常把資料送到網頁的伺服器，網頁伺服器收到資訊之後，再回傳一些訊息，不過這個部分比較偏向後端，在後端教學中會有更詳細的介紹，這邊只是一個範例，讓你有一些感覺。
 
 ### 單元總結
 
-> 
-
-
-
-
-
-
-
-
-
-
-
+>
 
 
 
