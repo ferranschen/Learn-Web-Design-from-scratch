@@ -22,11 +22,20 @@
 這是一個標準的&lt; form &gt; tag的寫法，上面的程式碼，並不會顯現任何東西，其實它也像是一個容器。
 action 跟 method 屬性是指當你按送出之後，你可以去做出一些動作，例如，把使用者的資料傳到server的資料庫中等等，在後端學習的時候我們會有更多的討論。現在可以先不用太在意。
 
+在&lt; form &gt; 這個tag裡面，我們會加入&lt; input &gt; 這個元素，這個元素就是填入表格，填入表格有許多種類，你可以在[MDN InputTypes](https://developer.mozilla.org/zh-TW/docs/Web/HTML/Element/input#Form_<input>_types)
+這邊看到有許多種類，我們常用的其實佔少數，所以也不用全部都背起來，下面是一個加入&lt; input &gt; 的例子。
 ```html
 <form action="" method="">
-		
+		<input type="text" >
+		<input type="password">
+		<input type="date" >
+		<input type="color">
+		<input type="file">
+		<input type="checkbox">
+       		<input type="radio">
 </form>
 ```
+
 
 
 
