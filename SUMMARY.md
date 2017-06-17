@@ -30,6 +30,8 @@
       * 2.3.4 自我檢視
     * [2.3.5 Basic Tags 5](html-jian-jie/23-basic-html/235.md)
       * [2.3.5 自我檢視](html-jian-jie/23-basic-html/235/23.md)
+    * 2.3.6 Basic Tags 6
+      * 2.3.6 自我檢視
 * [CSS](basic-css.md)
   * [CSS 簡介](basic-css/css-jian-jie.md)
 * Bootstrap

@@ -16,7 +16,7 @@
   <p>This is a paragraph.</p>
 </div>
 ```
-
+&lt; div &gt; 是 block-level element，可以容納其他 block-level element 或 inline element （下面會有一些解釋）
 可以把這個標籤想像成一個袋子，裡面裝了其他元素，這些元素組成的一個群體，通常用來改變一個群體的風格外觀，下圖為顯示結果。  
 ![](/assets/螢幕快照 2017-06-06 上午12.34.28.png)
 
@@ -28,7 +28,7 @@
 <p>我有一雙<span style="color:blue">藍色的</span>眼睛， 他的眼睛是<span style="color:darkolivegreen">深綠色的</span>。</p>
 ```
 
-這個標籤跟 &lt; div &gt; 功能幾乎是一樣的，不過這個元素是inline element，只能容納文字或者其他inline elements。相反地， &lt; div &gt; 是 block-level element，下圖為顯示結果。
+這個標籤跟 &lt; div &gt; 功能幾乎是一樣的，不過這個元素是inline element，只能容納文字或者其他inline elements。下圖為顯示結果。
 
 ![](/assets/螢幕快照 2017-06-06 上午1.06.27.png)
 
@@ -88,7 +88,7 @@
 
 ### 單元總結
 
- > 這個章節我們介紹了兩個標籤，分別是&lt; div &gt; 跟 &lt; span &gt;。我們更進一步的解釋 Block 跟 Inline Elements 的差別。不要被這些名詞嚇到，先有基本的概念就行了，以後的例子比較能感受到差別。
+ > 這個章節我們介紹了兩個標籤，分別是&lt; div &gt; 跟 &lt; span &gt;。我們更進一步的解釋 Block 跟 Inline Elements 的差別。不要被這些名詞嚇到，先有基本的概念就行了，以後會有更多例子。
 
 
 
