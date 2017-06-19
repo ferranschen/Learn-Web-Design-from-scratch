@@ -42,7 +42,7 @@
 你可以發現，瀏覽器遇到段落會加上一個換行，而不會直接接到下一個段落。另外，如同 &lt; h1 &gt;，不要在&lt; p &gt; 中使用“align”屬性
 
 ---
-* ### &lt; ol &gt; 與 &lt; ul &gt; Tag
+* ### &lt; ol &gt; 與 &lt; ul &gt; Tags
 
 ```html
 <ul>
