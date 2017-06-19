@@ -3,7 +3,7 @@
 
 <quiz>
     <question multiple>
-        <p>1. 課文中介紹了哪兩個可以查詢語法的網站?</p>
+        <p>1. 課文中介紹了哪兩個可以查詢語法的網站？</p>
         <answer correct>MDN</answer>
         <answer>Google translate</answer>
         <answer correct>W3School</answer>

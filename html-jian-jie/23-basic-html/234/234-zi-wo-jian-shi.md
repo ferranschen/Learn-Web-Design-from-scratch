@@ -3,7 +3,7 @@
 
 <quiz>
     <question multiple>
-        <p>1. 用來表示表格的元素是?</p>
+        <p>1. 用來表示表格的元素是？</p>
         <answer>&lt; div &gt;</answer>
         <answer>&lt; form &gt;</answer>
         <answer correct>&lt; table &gt;</answer>
