@@ -28,6 +28,6 @@
     <p>4. 我們可以使用&lt; thead &gt;、&lt; tbody &gt; 讓我們的程式碼更有架構。</p>
     <answer correct>Yes</answer>
     <answer>No</answer>
-    <explanation></explanation>    
+    <explanation>我們可以使用&lt; thead &gt;、&lt; tbody &gt; 讓我們的程式碼更有架構。</explanation>    
     </question>
 </quiz>
