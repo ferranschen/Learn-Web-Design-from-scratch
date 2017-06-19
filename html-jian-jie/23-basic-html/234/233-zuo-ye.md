@@ -9,7 +9,8 @@
 * ### 作業要求
 1. 表格之中至少要搜集四個角色的資訊。
 2. 表格需要有圖片、名稱、種類、以及角色資訊連結。
-3. 關於卡牌的資訊，你可以在[這裡](http://clashroyale.wikia.com/wiki/Clash_Royale_Wiki)找到。
+3. 表格要有1px 寬度的邊筐。
+4. 關於卡牌的資訊，你可以在[這裡](http://clashroyale.wikia.com/wiki/Clash_Royale_Wiki)找到。
 
 ---
 
