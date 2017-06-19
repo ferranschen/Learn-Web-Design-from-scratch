@@ -1,14 +1,14 @@
-#2.3.1 自我檢視
+#2.3.3 自我檢視
 
 
 <quiz>
     <question multiple>
-        <p>1. 課文中介紹了哪兩個可以查詢語法的網站?</p>
-        <answer correct>MDN</answer>
-        <answer>Google translate</answer>
-        <answer correct>W3School</answer>
-        <answer>CNN</answer>
-        <explanation>MDN 跟 W3School 都有提供詳盡的語法說明以及使用慣例。</explanation>
+        <p>1. 用來表示表格的元素是?</p>
+        <answer correct>&lt; div &gt;</answer>
+        <answer>&lt; form &gt;</answer>
+        <answer correct>&lt; table &gt;</answer>
+        <answer>&lt; TABLE &gt;</answer>
+        <explanation>用來表示表格的元素是&lt; table &gt;</explanation>
     </question>
     <question multiple>
         <p>2. 使用哪一種標籤來顯現文章的標題？</p>
