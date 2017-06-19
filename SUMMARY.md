@@ -38,6 +38,7 @@
 * Bootstrap
 * [Javascript](javascript.md)
   * [Javascript 簡介](javascript/javascript-jian-jie.md)
+* [常見問題](chang-jian-wen-ti.md)
 * [問題回報](wen-ti-hui-bao.md)
 * [版權聲明](ban-quan-sheng-ming.md)
 
