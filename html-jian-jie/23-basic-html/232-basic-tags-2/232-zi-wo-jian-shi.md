@@ -15,7 +15,7 @@
     <explanation></explanation>    
     </question>
     <question>
-    <p>3. 使用 &lt; span &gt; 會讓排版自動換行</p>
+    <p>3. 使用 &lt; span &gt; 會讓排版自動換行。</p>
     <answer>Yes</answer>
     <answer correct>No</answer>
     <explanation>使用 &lt; div &gt; 才會讓排版自動換行。</explanation>    
