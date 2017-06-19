@@ -28,6 +28,6 @@
     <p>4. 我們可以使用&lt; thead &gt;、&lt; tbody &gt; 讓我們的程式碼更有架構。</p>
     <answer correct>Yes</answer>
     <answer>No</answer>
-    <explanation>"align" 這個屬性在 HTML 5 已經被淘汰了，所以不要在標題(h1~h6)中使用 align 屬性。</explanation>    
+    <explanation></explanation>    
     </question>
 </quiz>
