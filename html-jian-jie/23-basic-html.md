@@ -1,4 +1,4 @@
-sd### Basic HTML
+### Basic HTML
 
 > 這個章節介紹基本HTML 語法，並實作完整的HTML網站。
 
