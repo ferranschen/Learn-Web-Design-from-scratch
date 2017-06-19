@@ -24,12 +24,12 @@
       * [2.3.1 作業](html-jian-jie/23-basic-html/231-basic-tags/231-zuo-ye.md)
     * [2.3.2 Basic tags 2 ](html-jian-jie/23-basic-html/232-basic-tags-2.md)
       * [2.3.2 自我檢視](html-jian-jie/23-basic-html/232-basic-tags-2/232-zi-wo-jian-shi.md)
-    * [2.3.3 Basic Tags 3](html-jian-jie/23-basic-html/233-tag-attributes.md)
-      * [2.3.3 自我檢視](html-jian-jie/23-basic-html/233-tag-attributes/233-zi-wo-jian-shi.md)
     * [2.3.4 Basic Tags 4](html-jian-jie/23-basic-html/234.md)
       * 2.3.4 自我檢視
     * [2.3.5 Basic Tags 5](html-jian-jie/23-basic-html/235.md)
       * [2.3.5 自我檢視](html-jian-jie/23-basic-html/235/23.md)
+    * [2.3.3 Basic Tags 3](html-jian-jie/23-basic-html/233-tag-attributes.md)
+      * [2.3.3 自我檢視](html-jian-jie/23-basic-html/233-tag-attributes/233-zi-wo-jian-shi.md)
     * 2.3.6 Basic Tags 6
       * 2.3.6 自我檢視
 * [CSS](basic-css.md)
