@@ -35,7 +35,7 @@
       * 2.3.6 自我檢視
 * [CSS](basic-css.md)
   * [CSS 簡介](basic-css/css-jian-jie.md)
-* Bootstrap
+* [Semantic UI](bootstrap.md)
 * [Javascript](javascript.md)
   * [Javascript 簡介](javascript/javascript-jian-jie.md)
 * [常見問題](chang-jian-wen-ti.md)
