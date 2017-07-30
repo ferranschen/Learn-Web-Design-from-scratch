@@ -16,7 +16,8 @@
   <p>This is a paragraph.</p>
 </div>
 ```
-&lt; div &gt; 是 block-level element，可以容納其他 block-level element 或 inline element （下面會有一些解釋）
+
+&lt; div &gt; 是 block-level element，可以容納其他 block-level element 或 inline element （下面會有一些解釋）  
 可以把這個標籤想像成一個袋子，裡面裝了其他元素，這些元素組成的一個群體，通常用來改變一個群體的風格外觀，下圖為顯示結果。  
 ![](/assets/螢幕快照 2017-06-06 上午12.34.28.png)
 
@@ -54,9 +55,9 @@
 <h1> - <h6>
 ```
 
-#### Inline Elements
+#### Inline Elements （同一行的元素）
 
-瀏覽器遇到這種標籤並不會加入換行，內容通常是文字或是連結。另外，這種標籤的寬度只會取剛好所需。
+瀏覽器會將inline 元素排在同一行，而不會換行。
 
 常見的 Inline Elements 如下：
 
@@ -82,37 +83,11 @@
 
 ![](/assets/螢幕快照 2017-06-06 上午2.16.50.png)
 
-你可以發現，&lt; span &gt; 前面並沒有換行，而且寬度只取剛好。相反的，&lt; p &gt; 前面多了一個換行，而且寬度是取最左邊到最右邊。原因是因為 &lt; span &gt; 是一個 inline element，而&lt; p &gt; 則是 block-level element。 
-
-
+你可以發現，&lt; span &gt; 前面並沒有換行。相反的，&lt; p &gt; 前面多了一個換行，而且寬度是取最左邊到最右邊。原因是因為 &lt; span &gt; 是一個 inline element，而&lt; p &gt; 則是 block-level element。
 
 ### 單元總結
 
- > 這個章節我們介紹了兩個標籤，分別是&lt; div &gt; 跟 &lt; span &gt;。我們更進一步的解釋 Block 跟 Inline Elements 的差別。不要被這些名詞嚇到，先有基本的概念就行了，以後會有更多例子。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> 這個章節我們介紹了兩個標籤，分別是&lt; div &gt; 跟 &lt; span &gt;。我們更進一步的解釋 Block 跟 Inline Elements 的差別。不要被這些名詞嚇到，先有基本的概念就行了，以後會有更多例子。
 
 
 
