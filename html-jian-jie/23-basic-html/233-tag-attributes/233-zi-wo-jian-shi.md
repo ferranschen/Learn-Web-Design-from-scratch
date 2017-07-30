@@ -10,19 +10,12 @@ d#2.3.5 自我檢視
         <explanation>placeholder 是一個很常用的屬性，這個屬性可以產生一串提示字串，讓使用者可以明白這個格子需要填入哪些資訊。</explanation>
         </question>
         <question multiple>
-        <p>2. 使用哪一種標籤來顯現表格的一行？</p>
-        <answer correct>&lt; tr &gt;</answer>
-        <answer>&lt; trow &gt;</answer>
-        <answer>&lt; row &gt;</answer>
-        <answer>&lt; td &gt;</answer>
-        <explanation>使用&lt; tr &gt;標籤來顯現表格的一行。</explanation></question>
-
-
-    
-
-       
-
-
+        <p>2. form 中的action屬性的功用是什麼？</p>
+        <answer correct>用來表示路由的位置</answer>
+        <answer>用來表示一個動作</answer>
+        <answer>form中沒有這個屬性</answer>
+        <explanation>action 是指路由的位置，method 則是指我們要使用哪個動作。  
+</question>
 
 </quiz>
 
